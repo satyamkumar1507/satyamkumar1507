@@ -60,10 +60,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar1507&layout=compact&theme=dark)
 
-## ⏱️ WakaTime Coding Stats
+<!-- ## ⏱️ WakaTime Coding Stats
 
 [![Satyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satyamkumar1507&theme=dark)](https://wakatime.com/@satyamkumar1507)
-
+-->
 ---
 
 ## 🧠 Fun Facts

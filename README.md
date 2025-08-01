@@ -58,6 +58,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=satyam-kumar&show_icons=true&theme=github_dark" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-kumar&layout=compact&theme=github_dark" height="160" />
 </p>
+## 📊 GitHub Stats
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar1507&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar1507&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar1507&layout=compact&theme=dark)
+
 
 ---
 

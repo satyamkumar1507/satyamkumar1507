@@ -15,6 +15,7 @@
 - 💻 I also develop full-stack web apps using **MERN stack**
 - 🌱 Currently learning more about **SRE practices and Kubernetes internals**
 - 📫 Reach me at: **[satyamsingh150720@gmail.com]**
+![Profile views](https://komarev.com/ghpvc/?username=satyamkumar1507&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 

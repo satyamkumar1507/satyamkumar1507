@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar1507&show_icons=true&theme=radical&cache_seconds=1800
+![Satyam's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=satyamkumar1507
 )
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=satyamkumar1507&theme=radical

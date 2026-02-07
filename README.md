@@ -55,11 +55,14 @@
 
 ## 📊 GitHub Stats
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar1507&show_icons=true&theme=dark)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamkumar1507&show_icons=true&theme=radical&cache_seconds=1800
+)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar1507&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=satyamkumar1507&theme=radical
+)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar1507&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar1507&layout=compact&theme=radical
+)
 
 <!-- ## ⏱️ WakaTime Coding Stats
 
